@@ -6,3 +6,4 @@
 * April 8, EDA for Shunyi data
 * April 9, EDA for Shunyi(cont'd) and cleanup for other data set
 * April 14, Theoretical support/papers/images
+* April 14, Bayesian inference update
