@@ -7,3 +7,6 @@
 * April 9, EDA for Shunyi(cont'd) and cleanup for other data set
 * April 14, Theoretical support/papers/images
 * April 14, Bayesian inference update
+* April 17, More linear model
+* April 20, Add HMM, final version for HMM-Linear-Model
+
