@@ -10,3 +10,8 @@
 * April 17, More linear model
 * April 20, Add HMM, final version for HMM-Linear-Model
 
+## Final File
+* tensorflow.ipynb
+* RandomForest_final.ipynb
+* Intro_and_EDA_start.ipynb
+* HMM-and-Linear-Model.ipynb
