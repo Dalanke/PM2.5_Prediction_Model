@@ -6,10 +6,10 @@
 Data source:<br>
 https://www.kaggle.com/sid321axn/beijing-multisite-airquality-data-set/data
 
-## Team Info:
-Chuanyang Tang	 001381905
-Nan Ke  	 001388299
-Jun Ma  	 001080796
+## Contribution
+[Dalanke](https://github.com/Dalanke)<br>
+[kakatcy](https://github.com/kakatcy)<br>
+[majun1997](https://github.com/JunMA1997)
 
 ## File Description 
 The Final version of our work are listed below (please read with order):
