@@ -3,6 +3,8 @@
 > Using the data of Beijing, we aim at building a model that take some factors 
 > into consideration and predict the future concentration of PM2.5
 
+The project first tried HMM and linear regression, then turned into randomforest and ANN for more accurate prediction
+
 Data source:<br>
 https://www.kaggle.com/sid321axn/beijing-multisite-airquality-data-set/data
 
